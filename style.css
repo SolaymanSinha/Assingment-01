@@ -21,6 +21,20 @@ p{
     color: white;
     font-weight: bold;
 }
+.img-400{
+    width: 400px;
+}
+.img-w500-h350-c{
+    width: 500px;
+    height: 350px;
+    border-radius: 20px;
+}
+.padding-left-30{
+    padding-left: 30px;
+}
+.padding-right-30{
+    padding-right: 30px;
+}
 
 /* Section-01 All Code */
 .section-01{
@@ -77,9 +91,6 @@ p{
 .section-03{
     margin-bottom: 150px;
 }
-.section-03 div img{
-    width: 400px;
-}
 .section-03 .div-07{
     padding-left: 50px;
 }
@@ -87,9 +98,6 @@ p{
 /* Section-04 All Code */
 .section-04{
     margin-bottom: 200px;
-}
-.section-04 div img{
-    width: 400px;
 }
 .section-04 .div-08{
     padding-right: 50px;
@@ -106,4 +114,7 @@ p{
 }
 .programming-hero-blog span{
     color: #CAB8FF;
+}
+.section-05{
+    margin-bottom: 30px;
 }
