@@ -1,10 +1,31 @@
 body{
     margin: 0;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-family: 'Poppins', sans-serif;
 }
 .flexible-container{
     display: flex;
 }
+.half-width{
+    width: 50%;
+}
 
 /* Section-01 All Code */
+.section-01{
+    padding-top: 50px;
+}
+.section-01 h1{
+    font-size: 50px;
+}
+.section-01 h1 span{
+    color: #A3DA8D;
+}
+.section-01 a{
+    background-color: #F2789F;
+    padding: 10px 30px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
