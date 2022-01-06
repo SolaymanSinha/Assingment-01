@@ -43,7 +43,7 @@ p{
 /* Section-02 All Code */
 .section-02{
     justify-content: space-between;
-    margin-bottom: 150px;
+    margin-bottom: 200px;
 }
 .details-heading{
     text-align: center;
@@ -74,9 +74,26 @@ p{
 
 
 /* Section-03 All Code */
+.section-03{
+    margin-bottom: 150px;
+}
 .section-03 div img{
     width: 400px;
 }
 .section-03 .div-07{
     padding-left: 50px;
 }
+
+/* Section-04 All Code */
+.section-04 div img{
+    width: 400px;
+}
+.section-04 .div-08{
+    padding-right: 50px;
+}
+.section-04 .div-08{
+    padding-top: 50px;
+}
+
+
+/* Section-05 All Code */
