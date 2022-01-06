@@ -43,7 +43,12 @@ p{
 }
 .section-01 h1{
     font-size: 50px;
-    font-family: 'Roboto Slab', serif;;
+    font-family: 'Roboto Slab', serif;
+    border-radius: 100%;
+    border-left: 4px solid;
+    border-image: linear-gradient(#B5DEFF, #CAB8FF);
+    border-image-slice: 1;
+    padding-left: 15px;
 }
 .section-01 h1 span{
     color: #A3DA8D;
@@ -116,5 +121,21 @@ p{
     color: #CAB8FF;
 }
 .section-05{
-    margin-bottom: 30px;
+    margin-bottom: 100px;
+}
+
+/* Section-footer All Code */
+.footer{
+    margin-left: -100px;
+    margin-right: -100px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer p{
+    color: lightskyblue;
+}
+.footer span{
+    color: #A3DA8D;
 }
