@@ -85,6 +85,9 @@ p{
 }
 
 /* Section-04 All Code */
+.section-04{
+    margin-bottom: 200px;
+}
 .section-04 div img{
     width: 400px;
 }
@@ -97,3 +100,10 @@ p{
 
 
 /* Section-05 All Code */
+.programming-hero-blog{
+    text-align: center;
+    font-size: 50px;
+}
+.programming-hero-blog span{
+    color: #CAB8FF;
+}
