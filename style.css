@@ -1,7 +1,7 @@
 body{
     margin: 0;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
     font-family: 'Poppins', sans-serif;
 }
 .flexible-container{
@@ -10,22 +10,73 @@ body{
 .half-width{
     width: 50%;
 }
-
-/* Section-01 All Code */
-.section-01{
-    padding-top: 50px;
+p{
+    color: rgb(73, 70, 70);
 }
-.section-01 h1{
-    font-size: 50px;
-}
-.section-01 h1 span{
-    color: #A3DA8D;
-}
-.section-01 a{
+.button{
     background-color: #F2789F;
     padding: 10px 30px;
     border-radius: 7px;
     text-decoration: none;
     color: white;
     font-weight: bold;
+}
+
+/* Section-01 All Code */
+.section-01{
+    padding-top: 150px;
+    margin-bottom: 150px;
+}
+.section-01 h1{
+    font-size: 50px;
+    font-family: 'Roboto Slab', serif;;
+}
+.section-01 h1 span{
+    color: #A3DA8D;
+}
+
+.section-01 div img{
+    padding-left: 100px;
+}
+
+
+/* Section-02 All Code */
+.section-02{
+    justify-content: space-between;
+    margin-bottom: 150px;
+}
+.details-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.details{
+    color: #A3DA8D;
+}
+.three-div-img-width{
+    width: 200px;
+}
+.section-02 div{
+    width: 25%;
+    padding: 20px;
+    border-radius: 20px;
+    height: 400px;
+}
+.section-02 .div-03{
+    background-color: #B5DEFF;
+}
+.section-02 .div-04{
+    background-color: #C1FFD7;
+}
+.section-02 .div-05{
+    background-color: #FCFFA6;
+}
+
+
+/* Section-03 All Code */
+.section-03 div img{
+    width: 400px;
+}
+.section-03 .div-07{
+    padding-left: 50px;
 }
